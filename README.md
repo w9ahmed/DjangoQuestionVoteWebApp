@@ -9,4 +9,4 @@ docker-compose up --build
 sudo docker-compose run web python manage.py COMMAND
 ```
 
-https://docs.djangoproject.com/en/2.2/intro/tutorial05/
+https://docs.djangoproject.com/en/2.2/intro/tutorial05/#the-django-test-client
